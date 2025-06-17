@@ -35,6 +35,4 @@
 
 ⚡ _A magia está em nunca parar de aprender._
 
-### 🐍 Snake eating my contributions
-
 ![snake gif](https://github.com/marinavarroo/marinavarroo/blob/output/github-contribution-grid-snake.svg)
