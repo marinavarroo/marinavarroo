@@ -1,7 +1,7 @@
 # Maria Clara Dias Navarro
 
-🎓 Estudante de Engenharia de Software  
-💻 Apaixonada por tecnologia e desenvolvimento  
+💻 Desenvolvedora Fullstack apaixonada por tecnologia e desenvolvimento  
+🎓 Cursando Engenharia de Software  
 ⚡ Explorando o mundo da programação, uma linha por vez
 
 ---
